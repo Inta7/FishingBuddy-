@@ -1,0 +1,3 @@
+pyinstaller --onefile --noconfirm --noconsole --clean --key=delete7 --strip --name=FB --icon=appicon.jpg main.py
+pyinstaller --noconsole --clean main.py
+
